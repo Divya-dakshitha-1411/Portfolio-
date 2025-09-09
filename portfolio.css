@@ -1,0 +1,46 @@
+body{
+    background-color: #e7fafc;padding: 20px;
+}
+h1{
+    text-align: center;font-size: 40px;
+}
+h1:hover{
+text-decoration: underline;
+}
+p{
+    text-align: center;font-size: 25px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    padding: 5px;font-weight: bold;
+    border-radius: 10px;text-decoration: none;
+    margin-left: 20px;color:blueviolet;color:white;
+}
+nav a:hover{
+background-color: blueviolet;color:white;
+}
+section{
+    background-color: white;width:800px;
+    margin:30px auto;border-radius: 10px;
+    padding:20px;box-shadow: 0 5px 13px black;
+}
+hr{
+    margin:30px auto;width: 800px;border:2px solid black;
+}
+hr{
+    margin:30px auto;width: 800px;border:2px solid black;
+}
+figure{
+    text-align: center;
+}
+figure img{
+    border-radius: 50%;border:3px solid blue;
+}
+figure img:hover{
+    box-shadow: 0 5px 13px black;
+}
+figcaption{
+    front-size:25px ;
+}
